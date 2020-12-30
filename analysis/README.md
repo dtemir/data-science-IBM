@@ -2,12 +2,12 @@ Data Analysis with Python is a **6 Weeks** course on the fundamentals of Explara
 
 | Week | Topic |Jupyter Notebook on Jupyter Nbviewer |
 | ------ | ------ | ------ |
-| 1 | Understanding the Data | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Understanding_Data.ipynb) |
-| 2 | Wrangling the Data | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Wrangling_Data.ipynb) |
-| 3 | Exploring the Data | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Exploring_Data.ipynb) |
-| 4 | Model Development | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Model_Development.ipynb) |
-| 5 | Model Evaluation | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Model_Evaluation.ipynb) |
-| 6 | Final Assignment | [Notebook](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/analysis/Final_Assignment.ipynb) |
+| 1 | Understanding the Data | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Understanding_Data.ipynb) |
+| 2 | Wrangling the Data | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Wrangling_Data.ipynb) |
+| 3 | Exploring the Data | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Exploring_Data.ipynb) |
+| 4 | Model Development | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Model_Development.ipynb) |
+| 5 | Model Evaluation | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Model_Evaluation.ipynb) |
+| 6 | Final Assignment | [Notebook](https://github.com/dtemir/data-science-IBM/blob/main/analysis/Final_Assignment.ipynb) |
 * **Week 1** is about **understanding the data** on whether car prices depend on the attributes like Engine Type, Horsepower, MPG in Cities, or Milliage. To understand the data, we use *Pandas*, *NumPy*, *SciPy*, *Matplotlib*, *Seaborn*, and other libraries.
     * The Jupyter Notebook #1 is to explore the dataframe, the types of attributes, and other properties.
 * **Week 2** is about **wrangling the data** to preprocess it for further analysis, such as turning categorical variables into quantitative, dealing with missing values, and normalizing values. 
