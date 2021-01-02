@@ -9,6 +9,8 @@ By taking the course, you will learn useful **tools**, like **Jupyter Notebook**
 You will also get experience with the **libraries** like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, **Folium**, **Scikit-Learn**, and others.
 Most importantly, you will accomplish interesting **projects** like **Random Album Generator**, **Predicting Housing Prices**, and **Building a Classifier Model**.
 
+![Certificate](IBM-1.png)
+
 There are 9 courses:
 
 Sq. |Name | Directory Link | Credential
@@ -23,4 +25,3 @@ Sq. |Name | Directory Link | Credential
 8 | Machine Learning with Python | [Directory](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning) | [Credential](https://www.coursera.org/account/accomplishments/certificate/9T6WGR3HJXDW)
 9 | Applied Data Science Capstone | [Directory](https://github.com/dtemir/data-science-IBM/tree/main/capstone) | [Credential](https://www.coursera.org/account/accomplishments/certificate/6T2ZXQ8GJBVD)
 
-![Certificate](IBM-1.png)
