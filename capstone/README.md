@@ -6,7 +6,8 @@ The **hands-on assignment** in this class was to cluster neighborhoods of Toront
 * Clustered the neighborhoods according to the list of venues in the area (using Foursquare API)
 * Produced a map showing different clusters.
 * You can find the notebook [here](https://github.com/dtemir/data-science-IBM/blob/main/capstone/Neighborhoods-Toronto.ipynb).
-<img source="Clusters-Toronto.png">
+
+![Clusters in Toronto](Clusters-Toronto.png)
 
 **Week 1: Introduction**
 In this module, you will learn about the scope of this capstone course and the context of the project that you will be working on. You will learn about different location data providers and what location data is normally composed of. Finally, you will be required to submit a link to a new repository on your Github account dedicated to this course.
