@@ -1,4 +1,4 @@
-**The final assignment** was to read data of the US Economy to a pandas dataframe to build a dashboard showing the change in GDP and unemployment
+**The [final assignment](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/python/Final_Assignment.ipynb)** was to read data of the US Economy to a pandas dataframe to build a dashboard showing the change in GDP and unemployment
 
 ![Dashboard on the change of % in GDP and unemployment in the US](bokeh_plot.png)
 
