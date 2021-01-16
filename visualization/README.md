@@ -28,8 +28,20 @@ In this module, you learn about area plots and how to create them with Matplotli
 
 In this module, you will learn about advanced visualization tools such as waffle charts and word clouds and how to create them. You will also learn about seaborn, which is another visualization library, and how to use it to generate attractive regression plots. In addition, you will learn about Folium, which is another visualization library, designed especially for visualizing geospatial data. Finally, you will learn how to use Folium to create maps of different regions of the world and how to superimpose markers on top of a map, and how to create choropleth maps.
 
+**Waffle Chart on the proportion of people coming from Denmark, Sweden, and Norway to Canada (1980 - 2013)**
+
 ![Wafflechart on Immigration to Canada](results/waffle-chart.png)
 
 ![Regression Plot on Immigration to Canada](results/regression-plot.png)
 
+**Word-Cloud presenting top 15 counties from where people migrate to Canada (1980 - 2013)**
+
 ![Word-Cloud on Immigration to Canada](results/word-cloud.png)
+
+**Folium map showing crimes that occured in San-Francisco in 2016**
+
+![Folium on Crimes in San-Francisco](results/folium.png)
+
+**Choropleth map showing rates of immigration to Canada by country (total of 1980 - 2013)**
+
+![Choropleth on Immigration to Canada](results/choropleth.png)
