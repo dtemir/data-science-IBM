@@ -1,4 +1,4 @@
-**The only hands-on assignment** was to create a Jupyter Notebook, write some markdown and code, and share it publicly, [link](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/tools/Final_Project_Course_2.ipynb).
+**The only hands-on assignment** was to create a Jupyter Notebook, write some markdown and code, and share it publicly, [**NBViewer**](https://nbviewer.jupyter.org/github/dtemir/data-science-IBM/blob/main/tools/final_project.ipynb).
 
 ### Week 1: Data Scientist's Toolkit
 
