@@ -12,7 +12,7 @@ we learn about non-linear regression analysis by fitting the model to the datapo
 
 ![non-linear regression model on China's GDP](demos/Non-Linear_Regression.png)
 
-In [**K-Nearest-neighbord**"](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Nearest-neighbord.ipynb)
+In [**K-Nearest-neighbord**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Nearest-neighbord.ipynb)
 we learn about K-Nearest Neighbors by fitting the model to the data of a telecommunication provider, [*teleCust1000t.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/teleCust1000t.csv). We find the best number of neighbors to use for the algorithm.
 
 ![k-nearest neighbor on telecommunication company](demos/K-Nearest_Neighbor.png)
