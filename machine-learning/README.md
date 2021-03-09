@@ -7,7 +7,7 @@ In this week, you will learn about applications of Machine Learning in different
 
 In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
 
-In [**Simple-Linear Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Simple-Linear Regression.ipynb)
+In [**Simple-Linear Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Simple-Linear-Regression.ipynb)
 we learn about linear regression analysis by fitting the model to the data on cars fuel consumption, [*FuelConsumption.csv*](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning/FuelConsumption.csv).
 
 ![linear-regression model on fuel consumption](demos/Simple-Linear-Regression.png)
