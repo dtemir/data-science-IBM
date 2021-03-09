@@ -12,6 +12,9 @@ we learn about linear regression analysis by fitting the model to the data on ca
 
 ![linear-regression model on fuel consumption](demos/Simple-Linear-Regression.png)
 
+In [**Multiple-Linear-Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Multiple-Linear-Regression.ipynb)
+learn about linear regression analysis by fitting the model to the data on cars fuel consumption, [*FuelConsumption.csv*](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning/FuelConsumption.csv) with multiple variables.
+
 In [**Non-Linear-Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Non-Linear-Regression.ipynb) 
 we learn about non-linear regression analysis by fitting the model to the datapoints of China's GDP from 1960 to 2014, [*china_gdp.csv*](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning/china_gdp.csv).
 
