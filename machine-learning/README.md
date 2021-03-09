@@ -7,6 +7,11 @@ In this week, you will learn about applications of Machine Learning in different
 
 In this week, you will get a brief intro to regression. You learn about Linear, Non-linear, Simple and Multiple regression, and their applications. You apply all these methods on two different datasets, in the lab part. Also, you learn how to evaluate your regression model, and calculate its accuracy.
 
+In [**Simple-Linear Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Simple-Linear Regression.ipynb)
+we learn about linear regression analysis by fitting the model to the data on cars fuel consumption, [*FuelConsumption.csv*](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning/FuelConsumption.csv).
+
+![linear-regression model on fuel consumption](demos/Simple-Linear-Regression.png)
+
 In [**Non-Linear-Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Non-Linear-Regression.ipynb) 
 we learn about non-linear regression analysis by fitting the model to the datapoints of China's GDP from 1960 to 2014, [*china_gdp.csv*](https://github.com/dtemir/data-science-IBM/tree/main/machine-learning/china_gdp.csv).
 
@@ -16,12 +21,12 @@ we learn about non-linear regression analysis by fitting the model to the datapo
 
 In this week, you will learn about classification technique. You practice with different classification algorithms, such as KNN, Decision Trees, Logistic Regression and SVM. Also, you learn about pros and cons of each method, and different classification accuracy metrics.
 
-In [**K-Nearest-neighbord**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Nearest-neighbord.ipynb)
+In [**K-Nearest-neighbord.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Nearest-neighbord.ipynb)
 we learn about K-Nearest Neighbors by fitting the model to the data of a telecommunication provider, [*teleCust1000t.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/teleCust1000t.csv). We find the best number of neighbors to use for the algorithm.
 
 ![k-nearest neighbor on telecommunication company](demos/K-Nearest_Neighbor.png)
 
-In [**Decision-Trees**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Decision-Trees.ipynb) we learn about Decision Trees by fitting the model to the data of a medical research on what type of drug to presribe a patient, [*drug200.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/drug200.csv). We build a decision tree based on the data.
+In [**Decision-Trees.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Decision-Trees.ipynb) we learn about Decision Trees by fitting the model to the data of a medical research on what type of drug to presribe a patient, [*drug200.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/drug200.csv). We build a decision tree based on the data.
 
 ![decision tree on medical research](demos/drugtree.png)
 
