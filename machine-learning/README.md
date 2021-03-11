@@ -33,6 +33,10 @@ In [**Decision-Trees.ipynb**](https://github.com/dtemir/data-science-IBM/blob/ma
 
 ![decision tree on medical research](demos/drugtree.png)
 
+In [**Logistic-Regression.ipynb**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Logistic-Regression.ipynb) we learn about Logistic Regression by fitting the model to the data of a telecommunication company that is trying to save a customer from leaving thir services, [*ChurnData.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/ChurnData.csv). We build a logistic regression model to predict whether the customer will leave the services.
+
+![logistic regression on telecommunication company](demos/Logistic-Regression.png)
+
 ### Week 4 - Clustering
 
 In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
