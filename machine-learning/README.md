@@ -37,13 +37,18 @@ In [**Logistic-Regression.ipynb**](https://github.com/dtemir/data-science-IBM/bl
 
 ![logistic regression on telecommunication company](demos/Logistic-Regression.png)
 
-In [**Support-Vector-Machines**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Support-Vector-Machines.ipynb) we learn about Support Vector Machines by fitting the model to the data on human cell cancer, trying to idenity whether a certain cell is benign or malignant, [*cell_samples.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/cell_samples.csv). We build an SVM to predict whether a human cell is cancerous.
+In [**Support-Vector-Machines**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Support-Vector-Machines.ipynb) we learn about Support Vector Machines by fitting the model to the data on human cell cancer, trying to idenity whether a certain cell is benign or malignant, [*cell_samples.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/cell_samples.csv). In other words, we tried to build an SVM to predict whether a human cell is cancerous.
 
 ![support vector machines on human cells](demos/Support-Vector-Machines.png)
 
 ### Week 4 - Clustering
 
 In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
+
+In [**K-Means Clustering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Means.ipynb)
+we learn about K-Means Clustering by fitting the model to the data on some customers with differrent characteristics like income, education type, debt, and debt to income ratio,[*Cust_Segmentation.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Cust_Segmentation.csv).
+
+![k-means clustering on customers](demos/K-Means-Clustering.png)
 
 ### Week 5 - Recommender Systems
 
