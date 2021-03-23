@@ -46,9 +46,14 @@ In [**Support-Vector-Machines**](https://github.com/dtemir/data-science-IBM/blob
 In this section, you will learn about different clustering approaches. You learn how to use clustering for customer segmentation, grouping same vehicles, and also clustering of weather stations. You understand 3 main types of clustering, including Partitioned-based Clustering, Hierarchical Clustering, and Density-based Clustering.
 
 In [**K-Means Clustering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/K-Means.ipynb)
-we learn about K-Means Clustering by fitting the model to the data on some customers with differrent characteristics like income, education type, debt, and debt to income ratio,[*Cust_Segmentation.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Cust_Segmentation.csv).
+we learn about K-Means Clustering by fitting the model to the data on some customers with differrent characteristics like income, education type, debt, and debt to income ratio, [*Cust_Segmentation.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Cust_Segmentation.csv).
 
 ![k-means clustering on customers](demos/K-Means-Clustering.png)
+
+In [**Hierarchical Clustering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Hierarchical.ipynb) 
+we learn about Hierarchical Clustering by fitting the model to the data on car characteristics to cluster them into groups in order to determine what cars are competing with each other in the market, [*cars_clus.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/cars_clus.csv).
+
+![hierarchical clustering on cars](demos/hierarchical-clustering.png)
 
 ### Week 5 - Recommender Systems
 
