@@ -55,6 +55,11 @@ we learn about Hierarchical Clustering by fitting the model to the data on car c
 
 ![hierarchical clustering on cars](demos/hierarchical-clustering.png)
 
+In [**Density-Based Clustering (DBSCN)**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/DBSCN.ipynb) 
+we learn about Density-Based Clustering by fitting the model on the Canadian Weather Stations, [*weather-stations*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/weather-stations20140101-20141231.csv). In the picture below, we clustered the weather stations based on their locations and temperature.
+
+![density-based clustering on canadian weather stations](demos/dbscn.png)
+
 ### Week 5 - Recommender Systems
 
 In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
