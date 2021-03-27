@@ -56,13 +56,38 @@ we learn about Hierarchical Clustering by fitting the model to the data on car c
 ![hierarchical clustering on cars](demos/hierarchical-clustering.png)
 
 In [**Density-Based Clustering (DBSCN)**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/DBSCN.ipynb) 
-we learn about Density-Based Clustering by fitting the model on the Canadian Weather Stations, [*weather-stations*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/weather-stations20140101-20141231.csv). In the picture below, we clustered the weather stations based on their locations and temperature.
+we learn about Density-Based Clustering by fitting the model on the Canadian Weather Stations, [*weather-stations.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/weather-stations20140101-20141231.csv). In the picture below, we clustered the weather stations based on their locations and temperature.
 
 ![density-based clustering on canadian weather stations](demos/dbscn.png)
 
 ### Week 5 - Recommender Systems
 
 In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
+
+In [**Content-Based Filtering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Content-Based-Filtering.ipynb)
+we learn about the way to filter movies based on their genres, [*movies.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/movies.csv), [*ratings.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/ratings.csv).
+
+In the result, based on the input movies:
+
+| id | title | rating |
+| --- | --- | --- |
+0 | Breakfast Club, The | 5.0
+1 | Toy Story | 3.5
+2 | Jumanji | 2.0
+3 | Pulp Fiction | 5.0
+4 | Akira | 4.5
+
+
+We get recommendation:
+
+| movieId | title | genres | year |
+| --- | --- | --- | --- | 
+| 673 | Space Jam | [Adventure, Animation, Children, Comedy, Fanta...] | 1996 |
+| 1907 | Mulan | [Adventure, Animation, Children, Comedy, Drama...] | 1998 | 
+| 2987 | Who Framed Roger Rabbit? | [Adventure, Animation, Children, Comedy, Crime...] | 1988 |
+| 5018 | Motorama | [Adventure, Comedy, Crime, Drama, Fantasy, Mys...] | 1991 |
+| 6902 | Interstate 60 | [Adventure, Comedy, Drama, Fantasy, Mystery, S...] | 2002 |
+| 26093 | Wonderful World of the Brothers Grimm, The | [Adventure, Animation, Children, Comedy, Drama...] | 1962
 
 ### Week 6 - Final Project
 
