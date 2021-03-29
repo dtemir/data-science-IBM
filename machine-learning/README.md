@@ -65,7 +65,7 @@ we learn about Density-Based Clustering by fitting the model on the Canadian Wea
 In this module, you will learn about recommender systems. First, you will get introduced with main idea behind recommendation engines, then you understand two main types of recommendation engines, namely, content-based and collaborative filtering.
 
 In [**Content-Based Filtering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Content-Based-Filtering.ipynb)
-we learn about the way to filter movies based on their genres, [*movies.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/movies.csv), [*ratings.csv*](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/ratings.csv).
+we learn about the way to filter movies based on their genres. The dataset was acquired from [GroupLens](https://grouplens.org/datasets/movielens/?cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork-20718538&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork-20718538&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork-20718538&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ&cm_mmc=Email_Newsletter-_-Developer_Ed%2BTech-_-WW_WW-_-SkillsNetwork-Courses-IBMDeveloperSkillsNetwork-ML0101EN-SkillsNetwork-20718538&cm_mmca1=000026UJ&cm_mmca2=10006555&cm_mmca3=M12345678&cvosrc=email.Newsletter.M12345678&cvo_campaign=000026UJ).
 
 In the result, based on the input movies:
 
@@ -89,7 +89,32 @@ We get recommendation:
 | 6902 | Interstate 60 | [Adventure, Comedy, Drama, Fantasy, Mystery, S...] | 2002 |
 | 26093 | Wonderful World of the Brothers Grimm, The | [Adventure, Animation, Children, Comedy, Drama...] | 1962
 
+In [**Collaborative Filtering**](https://github.com/dtemir/data-science-IBM/blob/main/machine-learning/Collaborative-Filtering.ipynb)
+we learn about the way to filter movies based on the similarity with other users. We apply the Pearson Correlation to measure linear association between variables, such as two users. 
+
+![Pearson Correlation Formula](https://wikimedia.org/api/rest_v1/media/math/render/svg/bd1ccc2979b0fd1c1aec96e386f686ae874f9ec0 "Pearson Correlation")
+
+Based on the created table of movies we watched and ratings we gave them:
+
+
+| id | title | rating |
+| --- | --- | --- |
+0 | Breakfast Club, The | 5.0
+1 | Toy Story | 3.5
+2 | Jumanji | 2.0
+3 | Pulp Fiction | 5.0
+4 | Akira | 4.5
+
+We get recommendation through the other user's preference:
+
+| movieId | title | year | 
+| --- | --- | --- |
+| 2200 | 2284 | Bandit Queen | 1994 | 
+| 3243 | 3329 | Year My Voice Broke, The | 1987 |
+| 3669 | 3759 | Fun and Fancy Free | 1947 |
+| 3679 | 3769 | Thunderbolt and Lightfoot | 1974 |
+| 3685 | 3775 | Make Mine Music | 1946 |
+
 ### Week 6 - Final Project
 
 In this module, you will do a project based of what you have learned so far. You will submit a report of your project for peer evaluation.
-
